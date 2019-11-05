@@ -26,3 +26,7 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Use postgres Database
+
+Run the Docker-Compose to create Postgre and PgAdmin to run following configurations
